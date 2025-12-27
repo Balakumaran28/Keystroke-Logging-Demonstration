@@ -24,11 +24,3 @@ Ethical hacking beginners
 OS internals learners
 
 Academic instructors for classroom demos
-
-Technology Stack
-text
-Python 3.6+
-├── tkinter          (Native GUI framework)
-├── pynput          (Keyboard event listener)
-├── json            (Structured data logging)
-└── threading       (Non-blocking execution)
